@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Espaces privés et techniques
+Disallow: /admin
+Disallow: /api/
+Disallow: /webhooks/
+Disallow: /rendez-vous/confirmation/
+Disallow: /suivre-mon-rendez-vous
+
+Sitemap: /sitemap.xml

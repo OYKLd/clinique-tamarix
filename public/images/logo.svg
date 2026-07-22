@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Logo provisoire Clinique Tamarix : à remplacer par le logo officiel HD (annexe du cahier des charges) -->
+  <circle cx="32" cy="32" r="30" fill="#1d537f"/>
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#a55a63" stroke-width="2.5"/>
+  <!-- Tronc du tamarix -->
+  <path d="M32 52 L32 30" stroke="#faf7f5" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Branches -->
+  <path d="M32 42 C26 40 22 34 21 28" stroke="#faf7f5" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M32 42 C38 40 42 34 43 28" stroke="#faf7f5" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M32 34 C28 32 25 28 24 22" stroke="#faf7f5" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  <path d="M32 34 C36 32 39 28 40 22" stroke="#faf7f5" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  <!-- Feuillage stylisé -->
+  <circle cx="21" cy="25" r="3.2" fill="#a55a63"/>
+  <circle cx="43" cy="25" r="3.2" fill="#a55a63"/>
+  <circle cx="24" cy="18" r="3.2" fill="#c98891"/>
+  <circle cx="40" cy="18" r="3.2" fill="#c98891"/>
+  <circle cx="32" cy="14" r="3.6" fill="#a55a63"/>
+</svg>
